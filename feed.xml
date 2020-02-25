@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-24T23:19:23-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Journal</title><subtitle>This is my site
+</subtitle><entry><title type="html">Next Stop!</title><link href="http://localhost:4000/2020/02/22/next-stop.html" rel="alternate" type="text/html" title="Next Stop!" /><published>2020-02-22T18:00:00-05:00</published><updated>2020-02-22T18:00:00-05:00</updated><id>http://localhost:4000/2020/02/22/next-stop</id><content type="html" xml:base="http://localhost:4000/2020/02/22/next-stop.html">&lt;p&gt;Introduction text goes here and here and here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/city-bg-unsplash.jpg&quot; alt=&quot;alt text&quot; title=&quot;Title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will find that I am absolutely in love with life, even though I struggle with making my way in this world. Overcoming my tendency towards laziness and keeping myself motivated to stay active.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dog&lt;/li&gt;
+  &lt;li&gt;Cat&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rat&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Test&lt;/li&gt;
+  &lt;li&gt;Rest&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Best&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Candy&lt;/li&gt;
+  &lt;li&gt;Gum&lt;/li&gt;
+  &lt;li&gt;Pun&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Introduction text goes here and here and here.</summary></entry><entry><title type="html">Happy Birthday!</title><link href="http://localhost:4000/2020/02/22/happy-birthday.html" rel="alternate" type="text/html" title="Happy Birthday!" /><published>2020-02-22T01:50:11-05:00</published><updated>2020-02-22T01:50:11-05:00</updated><id>http://localhost:4000/2020/02/22/happy-birthday</id><content type="html" xml:base="http://localhost:4000/2020/02/22/happy-birthday.html">&lt;p&gt;You will find that I am absolutely in love with life, even though I struggle with making my way in this world. Overcoming my tendency towards laziness and keeping myself motivated to stay active.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dog&lt;/li&gt;
+  &lt;li&gt;Cat&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rat&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Test&lt;/li&gt;
+  &lt;li&gt;Rest&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Best&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Candy&lt;/li&gt;
+  &lt;li&gt;Gum&lt;/li&gt;
+  &lt;li&gt;Pun&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">You will find that I am absolutely in love with life, even though I struggle with making my way in this world. Overcoming my tendency towards laziness and keeping myself motivated to stay active.</summary></entry></feed>
