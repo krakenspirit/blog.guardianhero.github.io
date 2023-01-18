@@ -1,201 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-12-07T09:22:02-05:00</updated><id>/feed.xml</id><title type="html">Guardian Journal</title><subtitle>This is my site
-</subtitle><entry><title type="html">Pipeline Improvements</title><link href="/2022/11/29/project-progress.html" rel="alternate" type="text/html" title="Pipeline Improvements" /><published>2022-11-29T01:00:00-05:00</published><updated>2022-11-29T01:00:00-05:00</updated><id>/2022/11/29/project-progress</id><content type="html" xml:base="/2022/11/29/project-progress.html">&lt;p&gt;&lt;img src=&quot;/assets/img/fotis-fotopoulos-unsplash.jpg&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-18T12:19:00-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Guardian Journal</title><subtitle>This is my site
+</subtitle><entry><title type="html">Niche and Practicality</title><link href="http://localhost:4000/2023/01/18/Narrowing-down.html" rel="alternate" type="text/html" title="Niche and Practicality" /><published>2023-01-18T01:00:00-05:00</published><updated>2023-01-18T01:00:00-05:00</updated><id>http://localhost:4000/2023/01/18/Narrowing-down</id><content type="html" xml:base="http://localhost:4000/2023/01/18/Narrowing-down.html"><![CDATA[<p><img src="/assets/img/n-map-unsplash-1024x683.jpg" alt="Trip" title="Trip" /></p>
 
-&lt;p&gt;Purchased a bunch of tools to help speed up the pipeline of my projects. Instead of modeling every scene and detail from scratch I now outsource to asset libraries. I also purchased some tools for managing large Writing Libraries.&lt;/p&gt;
+<p>Currently focused on low-risk business concepts that align with our nonprofit goals, which can be used to fund our projects. Assessing our short-term goals and long-term goals, and learning what is feasible and reasonable to expect. Of our long-term goals, care centers modeled afted Hogeweyk ("Hog vik's") dementia village in the Netherlands has been an important one. Of our short-term goals developing our monastery both an income source and business sense to make these dreams a reality has been the priority. Market analysis and research. We have spent the past few years experimenting with different concepts, and are now returning to the drawing board to see what is possible for us. Developing carpentry skills, purchasing land are part of long-term goals. Creating cashflow is short-term.
 
-&lt;p&gt;I am now working on web admin roles. I spent some time troubleshooting GIT, and have, after 1 year of troubleshooting finally dedicated the time to resolve the problem after my workaround quit working. I have some work to do with the main websites, before I can get back to writing and building 3D Environments. Ideally I will find some free website themes that can be retrofitted for my projects (or) I can find some help to fix my Lektor theme. Right now when I compile my main website on Lektor, I have to manually rebuild all ‘links’, something that doesn’t occur with Jekyll.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Improving Workflow</title><link href="/2022/11/29/Improving-workflow.html" rel="alternate" type="text/html" title="Improving Workflow" /><published>2022-11-29T01:00:00-05:00</published><updated>2022-11-29T01:00:00-05:00</updated><id>/2022/11/29/Improving-workflow</id><content type="html" xml:base="/2022/11/29/Improving-workflow.html">&lt;p&gt;&lt;img src=&quot;/assets/img/junglegyminterior.jpeg&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Narrowing down niche and practicality.]]></summary></entry><entry><title type="html">Pipeline Improvements</title><link href="http://localhost:4000/2022/11/29/project-progress.html" rel="alternate" type="text/html" title="Pipeline Improvements" /><published>2022-11-29T01:00:00-05:00</published><updated>2022-11-29T01:00:00-05:00</updated><id>http://localhost:4000/2022/11/29/project-progress</id><content type="html" xml:base="http://localhost:4000/2022/11/29/project-progress.html"><![CDATA[<p><img src="/assets/img/fotis-fotopoulos-unsplash.jpg" alt="Trip" title="Trip" /></p>
 
-&lt;ul&gt;
-  &lt;li&gt;Blogs w/Jekyll/Obsidian/Markdown&lt;/li&gt;
-  &lt;li&gt;Site building w/Visual Studio Code and Image Preview&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">More Guardian Updates</title><link href="/2022/06/02/ebike-updates.html" rel="alternate" type="text/html" title="More Guardian Updates" /><published>2022-06-02T02:00:00-04:00</published><updated>2022-06-02T02:00:00-04:00</updated><id>/2022/06/02/ebike-updates</id><content type="html" xml:base="/2022/06/02/ebike-updates.html">&lt;p&gt;&lt;img src=&quot;/assets/img/julian-hochgesang-unsplash.jpg&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
+<p>Purchased a bunch of tools to help speed up the pipeline. Instead of modeling every scene and detail from scratch we now outsource to asset libraries. Tools were also purchased for managing large Writing Libraries and lore. Web admin roles are now the current focus. Developing and maintaining the website as well as narrowing down the voice and presentation has been a particular challenge. Focusing on practicality over dreams has also been a recent shift.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Progress and pipeline improvements]]></summary></entry><entry><title type="html">Improving Workflow</title><link href="http://localhost:4000/2022/11/29/Improving-workflow.html" rel="alternate" type="text/html" title="Improving Workflow" /><published>2022-11-29T01:00:00-05:00</published><updated>2022-11-29T01:00:00-05:00</updated><id>http://localhost:4000/2022/11/29/Improving-workflow</id><content type="html" xml:base="http://localhost:4000/2022/11/29/Improving-workflow.html"><![CDATA[<p><img src="/assets/img/junglegyminterior.jpeg" alt="Wagons" title="Wagons" /></p>
 
-&lt;p&gt;For the Guardian project I began working on eBike build. The plan &lt;em&gt;was&lt;/em&gt; to learn to build bamboo eBikes based around a lightweight used bike with a steel frame. The current plan is to purchase an eBike kit from ebikeling. This is on hold to focus on art production and 3D Printing board games, miniatures, prototypes and tools that should drastically reduce our expenses.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Virtual Reality Explorations</title><link href="/2022/06/02/Virtual-Reality.html" rel="alternate" type="text/html" title="Virtual Reality Explorations" /><published>2022-06-02T02:00:00-04:00</published><updated>2022-06-02T02:00:00-04:00</updated><id>/2022/06/02/Virtual-Reality</id><content type="html" xml:base="/2022/06/02/Virtual-Reality.html">&lt;p&gt;&lt;img src=&quot;/assets/img/psv4-VR.png&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
+<p>Continued to improve workflow of the site and website administration.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Improving workflow and future updates]]></summary></entry><entry><title type="html">More Guardian Updates</title><link href="http://localhost:4000/2022/06/02/ebike-updates.html" rel="alternate" type="text/html" title="More Guardian Updates" /><published>2022-06-02T02:00:00-04:00</published><updated>2022-06-02T02:00:00-04:00</updated><id>http://localhost:4000/2022/06/02/ebike-updates</id><content type="html" xml:base="http://localhost:4000/2022/06/02/ebike-updates.html"><![CDATA[<p><img src="/assets/img/julian-hochgesang-unsplash.jpg" alt="Trip" title="Trip" /></p>
 
-&lt;p&gt;In September PSVR went on sale and was available for the first time since COVID’s shortage. The short-term plan was to use PSVR for desktop to play older game titles I loved without VR support with my GOG Library. The long-term plan was to 3D Model in Blender with VR and build game environments with VR  in mind.&lt;/p&gt;
+<p>The goal is to replace local transportation with eBikes. Studied bamboo eBikes and purchased a lightweight used bike with a steel frame from a nonprofit. Current build to add an eBike kit from ebikeling is on hold due to the cost of the kit conflict with the cost of purchasing software for our game and art studio. The eBike build also aligns with our off-grid experimental build, modeled after vandwellers. We currently have one 200w Solar Panel and a 1,500 Generator for recharging a 1,000w Jackery. This is not a fully functioning off-grid solution. The Solar Panels are too heavy, we will need to invest in flexible solar panels. This costs more. More research into diy ebike builds will also need to be explored.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[eBike build progress]]></summary></entry><entry><title type="html">Virtual Reality Explorations</title><link href="http://localhost:4000/2022/06/02/Virtual-Reality.html" rel="alternate" type="text/html" title="Virtual Reality Explorations" /><published>2022-06-02T02:00:00-04:00</published><updated>2022-06-02T02:00:00-04:00</updated><id>http://localhost:4000/2022/06/02/Virtual-Reality</id><content type="html" xml:base="http://localhost:4000/2022/06/02/Virtual-Reality.html"><![CDATA[<p><img src="/assets/img/psv4-VR.png" alt="Trip" title="Trip" /></p>
 
-&lt;p&gt;It was really hard to get the PSVR to work with PC requiring a lot of hacks. Once I got it to work there was more work I needed to do to make it feel seamless. On the playstation VR was fun, but it did not have the effect of making games I usually hate playing “more fun”. And sitting in m y chair with a bulky thing on my head I did not feel immersed. I could only play for 15 minutes at a time before feeling sick, at times my eyes would get dystonic, moving involuntary and I would have to take off the VR. These forced breaks would not have been so bad if the set was not so bulky and heavy.&lt;/p&gt;
+<p>Experimented with the PSVR for possible development of Virtual Environments for VR. The PSVR was a pain to work with PC requiring a lot of hacks. If we go down this route a better investment to purchase the Index Valve from steam. We may wait to see how VR continues to evolve over the years and focus our efforts on 3D Environments.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[PSVR for PS4 to PC]]></summary></entry><entry><title type="html">Guardian Updates</title><link href="http://localhost:4000/2022/05/10/composting-updates.html" rel="alternate" type="text/html" title="Guardian Updates" /><published>2022-05-10T02:00:00-04:00</published><updated>2022-05-10T02:00:00-04:00</updated><id>http://localhost:4000/2022/05/10/composting-updates</id><content type="html" xml:base="http://localhost:4000/2022/05/10/composting-updates.html"><![CDATA[<p><img src="/assets/img/chloe-leis-aqVR9n17ejc-unsplash.jpg" alt="Ducks" title="Ducks" /></p>
 
-&lt;p&gt;I am left with one of a few choices:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Purchase Valve Index for Desktop&lt;/li&gt;
-  &lt;li&gt;Stick with PS4 VR - which is locked to Playstatio&lt;/li&gt;
-  &lt;li&gt;Wait for VR to become more lightweight and mainstream&lt;/li&gt;
-&lt;/ol&gt;
+<p>Around March 10, 2017, we began working on converting all the waste the monastery produces into building and growing materials via vermicomposting. In 2020, it was dubbed a failure, as the red wrigglers required a lot of space and a lot of waste to maintain. In 2019, we switched to Ivory Head Roaches, and in 2020, we added mealworms. This fall of 2022 we added dermestids as well. The dermestids appeared to be dying off after a few months so integrated them with the roach colony. This year we incorporated Mule Ducks (Muscovy x Duck) and chickens into the mix with the goal of producing eggs and using duck fertilizer for growing plants. It turns out poultry is very good at breaking down cardboard. More experimentation is needed.</p>
 
-&lt;p&gt;In the meantime, my experiment with VR has been put on hiatus until the technology develops or until the year 2024-2025, &lt;em&gt;after&lt;/em&gt; I have built my motion-capture studio for development.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Guardian Updates</title><link href="/2022/05/10/composting-updates.html" rel="alternate" type="text/html" title="Guardian Updates" /><published>2022-05-10T02:00:00-04:00</published><updated>2022-05-10T02:00:00-04:00</updated><id>/2022/05/10/composting-updates</id><content type="html" xml:base="/2022/05/10/composting-updates.html">&lt;p&gt;&lt;img src=&quot;/assets/img/chloe-leis-aqVR9n17ejc-unsplash.jpg&quot; alt=&quot;Ducks&quot; title=&quot;Ducks&quot; /&gt;&lt;/p&gt;
+<p>Current Cage build:</p>
+<ul>
+  <li>Hardware Cloth and accessories,</li>
+  <li>Mutt Duckling (Muscovy mixes)</li>
+</ul>
 
-&lt;p&gt;Around March 10, 2017, I began working on converting all the waste the monastery produces into building and growing materials via vermicomposting. In 2020, I called it a failure, as the worms required a lot of space and a lot of waste to maintain. In 2019, I switched to Ivory Head Roaches, and in 2020, I added mealworms. This fall of 2022 after my rats died, I added dermestids as well. This year I incorporated Mules (Muscovy x Duck) into the mix with the goal of producing eggs and using duck fertilizer for growing plants.&lt;/p&gt;
+<p>Harvesting duck and chicken poop requires some planning. Harvesting clean eggs has been a challenge and finding the best bedding material in a rainy environment has added to the issue. The chickens and ducks free range the garden. In the future we will stick with chickens as opposed to ducks. The ducks are both noisy and messy, but have been a pleasure. Males are up for adoption in pairs and trios. We have ruled out outsourcing to a local butcher known for humane kills, as the sterile ducks have become part of our family. In the future, to make the males worth the cost of feeding them, we would have to accept them as pets (or) harvest their poop and find a use for it. They are very good bug patrol but then so are my egg layers. None of the males are fertile.</p>
 
-&lt;p&gt;For the Guardian project I purchased:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Hardware Cloth and accessories,&lt;/li&gt;
-  &lt;li&gt;Mutt Duckling (Muscovy mixes)&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="guardian-philosophy">Guardian Philosophy</h2>
+<p>Guardians have a philosophy called “Kashal” which is a precept Guardians follow but not layman. We can’t eat food whose ingredients we don’t recognize, there can’t be more than 5 whole ingredients in a single product, <em>and</em> any animal we eat has to be an animal we have raised ourselves in compassionate conditions or know beyond doubt have been raised in compassionate conditions. They have to be killed swiftly, without fear or pain, either by hand or by the hands of someone we have witnessed do it. It must be done in a way that does not traumatize the animal or their companions.</p>
 
-&lt;p&gt;Harvesting duck and chicken poop requires some planning, but harvesting eggs has been a breeze. The chickens and ducks free range the garden and so far they haven’t been eaten. Males are up for adoption in pairs and trios. I have not ruled out outsourcing to a local butcher known for humane kills. To make the males worth the cost of feeding them, I would have to accept them as pets (or) harvest their poop and find a use for it. They are very good bug patrol but then so are my egg layers. None of the males are fertile.&lt;/p&gt;
+<p>We can separate animals into male and female groups, but we cannot separate them from companions in a way which would not have occurred in the wild. Bonded pairs must remain together always except through natural means (such as death). No part of the animal can be wasted, if it rots it has to be used for compost or to feed another animals capable of eating rotten food. We cannot eat bioengineered food that we can’t produce ourselves. And we have to give thanks to the animal for nourishing our bodies. Killing our own food has been harder than expected.</p>
 
-&lt;h2 id=&quot;guardian-philosophy&quot;&gt;Guardian Philosophy&lt;/h2&gt;
-&lt;p&gt;Guardians have a philosophy called “Kashal” which is a precept Guardians follow but not layman. We can’t eat food whose ingredients we don’t recognize, there can’t be more than 5 whole ingredients in a single product, &lt;em&gt;and&lt;/em&gt; any animal we eat has to be an animal we have raised ourselves in compassionate conditions or know beyond doubt have been raised in compassionate conditions. They have to be killed swiftly, without fear or pain, either by hand or by the hands of someone we have witnessed do it. It must be done in a way that does not traumatize the animal’s companions.&lt;/p&gt;
+<h2 id="wagon-inspirations">Wagon Inspirations</h2>
+<p>The Gustafon family who travel by donkey and wagon and also keeps pigeons and chickens. The family utilizes multiple wagons.</p>
 
-&lt;p&gt;We can separate animals into male and female groups, but we cannot separate them from companions in a way which would not have occurred in the wild. Bonded pairs must remain together always except through natural means (such as death). No part of the animal can be wasted, if it rots it has to be used for compost or to feed another animals capable of eating rotten food. We cannot eat bioengineered food that we can’t produce ourselves. And we have to give thanks to the animal for nourishing our bodies.&lt;/p&gt;
+<p><img src="/assets/img/Gustafon_1.webp" alt="Wagons" title="Wagons" />
+<img src="/assets/img/Gustafon_7.webp" alt="Wagons" title="Wagons" />
+<img src="/assets/img/Gustafon_6.webp" alt="Wagons" title="Wagons" />
+<img src="/assets/img/Gustafon_5b.webp" alt="Wagons" title="Wagons" /></p>
 
-&lt;p&gt;Killing our own food sounds simple enough, even sending animals to a slaughterer conscious of making the death swift…what I did not expect was how hard it would be to take the life of another living being with eyes that look upon me with trust.&lt;/p&gt;
+<p><img src="/assets/img/Gustafon_JR2.webp" alt="Wagons" title="Wagons" /></p>
 
-&lt;h2 id=&quot;wagon-inspirations&quot;&gt;Wagon Inspirations&lt;/h2&gt;
-&lt;p&gt;It’s no secret that I wanted to have a travelling monastery with livestock and gardens. There are a lot of practical reasons this might never take off, laws and urbanization being one of them. But it doesn’t mean I can’t implement prototypes of this concept on purchased or borrowed land.&lt;/p&gt;
+<p><img src="/assets/img/gustafon8-DSCN4302c.jpeg" alt="Wagons" title="Wagons" /></p>
 
-&lt;p&gt;I am inspired by the Gustafon family who by donkey and wagon and also keeps pigeons and chickens. The family utilizes multiple wagons. I envision multiple wagons pulled by a combination of ebikes and/or livestock - or - perhaps solar powered animatronics. Goats would be herded with the wagon and the livestock would be either horses, &lt;del&gt;camels&lt;/del&gt;,  or Highland cattle.&lt;/p&gt;
+<p>In addition Aaron Fletcher who travels with his sheep and guerilla grazes, has also been an inspiration.
+<img src="/assets/img/AaronFletcher1.jpg" alt="Wagons" title="Wagons" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Gustafon_1.webp&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;
-&lt;img src=&quot;/assets/img/Gustafon_7.webp&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;
-&lt;img src=&quot;/assets/img/Gustafon_6.webp&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;
-&lt;img src=&quot;/assets/img/Gustafon_5b.webp&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+<p>An unknown yurt design - appears lightweight
+<img src="/assets/img/yurt-unknown.jpg" alt="Trip" title="Trip" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Gustafon_JR2.webp&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+<p>More possible designs
+<img src="/assets/img/Playroom.jpeg" alt="Wagons" title="Wagons" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/gustafon8-DSCN4302c.jpeg&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/img/90f6fb7d68a7861cd4f03bfde1e375e5.jpg" alt="Wagons" title="Wagons" /></p>
 
-&lt;p&gt;In addition Aaron Fletcher who travels with his sheep and guerilla grazes, has also been an inspiration.
-&lt;img src=&quot;/assets/img/AaronFletcher1.jpg&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/img/stout-300x300.jpg" alt="Wagons" title="Wagons" /></p>
 
-&lt;p&gt;External design when camping would be much like this.&lt;/p&gt;
+<p>Some ideas would be a combination of: Bell tent, yurts with reciprocal roofing, and tipis would be used for portable housing, but for stationary housing round houses made of mycelium bricks, straw, mud, tires, and/or earthbags would be used with reciprocal roofing.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Guardian composting Updates]]></summary></entry><entry><title type="html">Tool Updates</title><link href="http://localhost:4000/2022/03/01/tool-updates.html" rel="alternate" type="text/html" title="Tool Updates" /><published>2022-03-01T01:00:00-05:00</published><updated>2022-03-01T01:00:00-05:00</updated><id>http://localhost:4000/2022/03/01/tool-updates</id><content type="html" xml:base="http://localhost:4000/2022/03/01/tool-updates.html"><![CDATA[<p><img src="/assets/img/n-map-unsplash-1024x683.jpg" alt="Trip" title="Trip" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/yurt-unknown.jpg&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
+<p>Attention has been divided between two aspects of the Guardian Project. Getting the Monastery up and running at self-sufficient capacity (and) creating art as a byproduct of that monastery.</p>
 
-&lt;p&gt;Interior design is also an elements for wagons would be designed with parkour in mind.&lt;/p&gt;
+<p>Storage and Backup:</p>
+<ul>
+  <li>Expanded storage with Seagate - 18TB and 14TB</li>
+  <li>Repurposed old hard drives from old laptops to expand storage</li>
+  <li>Update: 4-Bay Docking Station to remove hard drives from case for easy access.</li>
+</ul>
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Playroom.jpeg&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+<p>Monastery Tools:</p>
+<ul>
+  <li>Soldering Station - for repairs and builds</li>
+  <li>200w Renogy solar panels w/solar connectors and adapters</li>
+  <li>seeds, wheat berries,</li>
+  <li>Staple guns and accessories,</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Purchased tools to make Guardian projects easier]]></summary></entry><entry><title type="html">Hardware Updates</title><link href="http://localhost:4000/2022/01/01/desktop-updates.html" rel="alternate" type="text/html" title="Hardware Updates" /><published>2022-01-01T01:00:00-05:00</published><updated>2022-01-01T01:00:00-05:00</updated><id>http://localhost:4000/2022/01/01/desktop-updates</id><content type="html" xml:base="http://localhost:4000/2022/01/01/desktop-updates.html"><![CDATA[<p><img src="/assets/img/fotis-fotopoulos-unsplash.jpg" alt="Hardware" title="Hardware" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/90f6fb7d68a7861cd4f03bfde1e375e5.jpg&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+<p>Built our own PC to replace old laptop. Invested in a PC build designed to work off-grid in a small space, but also capable of doing the work which needs to be done in the area of 3D Modeling. The old Laptop will remain in use for maintaining the website and basic writing projects.</p>
 
-&lt;p&gt;Walls would comprise shelves with electronics and cookware firmly attached.  And I imagine a ‘trailer’ of some sort that is 24ft long, 13.5ft high, 8.5ft wide, that is 270sqft, including any lofts - numbers I got from a tiny housing community, where one individual wanted her trailer to be street legal.&lt;/p&gt;
+<p>My current build:</p>
+<ul>
+  <li>EVGA RTX 3060</li>
+  <li>Asus Rog Strix B550-I</li>
+  <li>Ryzen 7 5700G</li>
+  <li>Corsair Vengeance RGB 32GB (2x16GB)</li>
+  <li>Corsair iCue Sp120 RGM 120mm Fan, single pack</li>
+  <li>Crucial P2 500GB NvMe PCie M.2 SSD - for “OS only”</li>
+  <li>Samsung 980 1TB SSD</li>
+  <li>Corsair SF Series, SF750, 750 Watts, 80+ Gold Certified</li>
+  <li>Cooler Master NR200 - Mini-ITX case</li>
+  <li><em>Monitor is old TCL - Roku TV</em></li>
+</ul>
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/stout-300x300.jpg&quot; alt=&quot;Wagons&quot; title=&quot;Wagons&quot; /&gt;&lt;/p&gt;
+<p>Other tools purchased for the projects: Soldering Station, 18TB Seagate, 14TB Seagate, 200w Renogy solar panels w/solar connectors and adapters, and garden seeds.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Desktop and Hardware Updates]]></summary></entry><entry><title type="html">Becoming Unbanked</title><link href="http://localhost:4000/2021/01/20/becoming-unbanked.html" rel="alternate" type="text/html" title="Becoming Unbanked" /><published>2021-01-20T01:00:00-05:00</published><updated>2021-01-20T01:00:00-05:00</updated><id>http://localhost:4000/2021/01/20/becoming-unbanked</id><content type="html" xml:base="http://localhost:4000/2021/01/20/becoming-unbanked.html"><![CDATA[<p><img src="/assets/img/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="Trip" title="Trip" /></p>
 
-&lt;p&gt;A combination of: Bell tent, yurts with reciprocal roofing, and tipis would be used for portable housing, but for stationary housing round houses made of mycelium bricks, straw, mud, tires, and/or earthbags would be used with reciprocal roofing.&lt;/p&gt;
+<p>Successfully registered organization state level. Made a few business mistakes when funding the account which led to the closure of our bank account. Will need to seek an attorney to avoid these mistakes in the future. As people inexperienced with the banking world we are going to have to level up and acquire some guidance. We’re still in the self-funding stage.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Becoming unbanked and underbanked and switching to alternative currencies and banking]]></summary></entry><entry><title type="html">New Plans</title><link href="http://localhost:4000/2020/02/23/new-plans.html" rel="alternate" type="text/html" title="New Plans" /><published>2020-02-23T01:00:00-05:00</published><updated>2020-02-23T01:00:00-05:00</updated><id>http://localhost:4000/2020/02/23/new-plans</id><content type="html" xml:base="http://localhost:4000/2020/02/23/new-plans.html"><![CDATA[<p><img src="/assets/img/planning_trip-min-960x640.jpg" alt="Trip" title="Trip" /></p>
 
-&lt;h2 id=&quot;more-inspirations&quot;&gt;More Inspirations&lt;/h2&gt;
-
-&lt;p&gt;A list of names of people or individuals who I have met or heard of who inspired my journey.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sunshine&lt;/strong&gt; - was a support dog belonging to Joshua Rohrer, a homeless vet. She was hit by a car after being tased by a police officer. I met Sunshine once and she lit up my world. I struggle with agoraphobia and PTSD and had a panic attack out in the open, it was a year after my dog died and reeling from the loss of my kung fu family. Sunshine jumped up and rested her head onto my chest and helped me to calm down.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Vandwelling Gamer&lt;/strong&gt; - He’s a youtuber who games with a desktop PC inside his van.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gustafon Family&lt;/strong&gt; - they travel by donkeys and wagons. Another family which wrote a book on Wagon Travel also inspired me, but I can’t remember their name! I learned about them through the longridersguild.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aaron Fletcher&lt;/strong&gt; - He is home-free and travels by sheep and small wagon. I am unlikely to meet him but he has been an inspiration to me.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The Tipi Family&lt;/strong&gt; - there was a family who  lived in a Tipi for a few years.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Caveman Bill&lt;/strong&gt; - My trip in 2020 was to head up to Dawson Creek and meet Caveman Bill. I don’t think I’ll ever get to  meet him.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Home-free computer programmer&lt;/strong&gt; - there was a programmer who lived in a tent out in the woods with his laptop doing programming work. I don’t remember his name, but I remember his story.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Man who traveled by donkey&lt;/strong&gt; -  There is a man who travels by donkey but I can’t remember what his name is. There are so many travellers by donkey! I ran into him one day on the road but never spoke to him as he was in road traffic. Another man traveled by horse and got wrecked, and there is another man who travels by donkey or did in the forests of Asheville.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The Long Riders Guild&lt;/strong&gt; - I had wanted to meet Claire Burges Watson and Bernice Ende, I had also hoped to get in touch with a long rider to see if any would give me any tips. I reached out through the website and didn’t hear back. Bernice Ende passed away October 2, 2021 in New Mexico, I never did figure out how to contact Claire and another inspiring story for me are the Brazilian long-riders who rode from America all the way to Brazil.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Jacque Fresco&lt;/strong&gt; - I really wanted to meet Jacque fresco and his friend Roxanne Meadows, but I never got the chance to as he died May 18th, 2017, I was still practicing martial arts.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Daniel Suelo&lt;/strong&gt; -  I was just a child when I read about Daniel Suelo, the man who gave up money and lived in a Cave. He takes care of his mom now but still upcycles everything around him, he has a youtube channel that I occasionally frequent. He is also very spiritual. I tried to be 100% money-free.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Charlene Swankie&lt;/strong&gt; - a vandweller and friend of mine who kayaked all 50 states after her husband’s passing. I met her back before I had children and was trying to vandwell with my rats. The Vandwelling tribe accepted me with open arms into their group. I got lost in my journeys after deleting all my social media accounts and ended up exploring wagons and buses. Now the community is saturated with spin-off vandwellers and groups, but this vandwelling tribe is OG.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;honorable-mentions&quot;&gt;Honorable mentions:&lt;/h2&gt;
-
-&lt;p&gt;Not on this list is Chris McCandless who inspired me, but whose lack of preparation and death has also frightened me as a cautionary tale. Another cautionary tale are the stories of families who have frozen to death in the Canadian winters. I wanted to travel in the dead of winter, with ‘romantic’ ideas of living close to the earth. Hunger, fending off bears and wolves, having broken limbs and not having the insulin needed for diabetic members of our family just doesn’t sound so appealing these days.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Tool Updates</title><link href="/2022/03/01/tool-updates.html" rel="alternate" type="text/html" title="Tool Updates" /><published>2022-03-01T01:00:00-05:00</published><updated>2022-03-01T01:00:00-05:00</updated><id>/2022/03/01/tool-updates</id><content type="html" xml:base="/2022/03/01/tool-updates.html">&lt;p&gt;&lt;img src=&quot;/assets/img/n-map-unsplash-1024x683.jpg&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My attention has been divided between two aspects of my Guardian Projects. Getting the Monastery up and running at self-sufficient capacity (and) creating art as a byproduct of that monastery.&lt;/p&gt;
-
-&lt;p&gt;Medusa Storage and Backup:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Expanded storage with Seagate - 18TB and 14TB&lt;/li&gt;
-  &lt;li&gt;Repurposed old hard drives from old laptops to expand storage&lt;/li&gt;
-  &lt;li&gt;Update: 4-Bay Docking Station to remove hard drives from case for easy access.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Monastery Tools:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Soldering Station - for repairs and builds&lt;/li&gt;
-  &lt;li&gt;200w Renogy solar panels w/solar connectors and adapters&lt;/li&gt;
-  &lt;li&gt;seeds, wheat berries,&lt;/li&gt;
-  &lt;li&gt;Staple guns and accessories,&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Monks are the developers of all products we produce, since our work produces little to no income, the ability to feed, clothe and house ourselves while limiting our dependency on money is directly proportionate to skills which overlap with preppers, survivalists and homesteaders.&lt;/p&gt;
-
-&lt;p&gt;Mormons are an example of a community where an essential part of their teachings is being prepared. Guardians share a similar philosophy, that we must be prepared to grow most to all of our own food, repair our own electronics, have the capabilities to build our own homes using local resources around us, and more.&lt;/p&gt;
-
-&lt;p&gt;Guardians focus on developing crafts related to arts and technology. Different factions and different guardians focus on different elements. Some Guardians work solely with building, others animal husbandry, technology or even a little bit of everything. The Amish are another example of a community of craftsmen known for their woodworking skills.&lt;/p&gt;
-
-&lt;p&gt;Guardians work to build facilities that facilitate self-sufficiency. Many monasteries consist of complexes which include a wide range of buildings that also facilitate self-sufficiency and service to the community. Many bigger corporations offer child-care and free food services on site. And ecovillages and other intentional communities have been doing something similar for years now.&lt;/p&gt;
-
-&lt;p&gt;My intention is to build something like that for my monastery and spiritual lineage on wheels. Solar panels were an important step. Unfortunately the solar panels are too heavy and bulky for everyday transportation. We will need to utilize the solar panel we have, while looking into flexible more lightweight solar panels, even if they cost more money. Solar and batteries are not the most efficient source of energy storage, but it is easier to transport than geothermal and is the only source of energy I know of that is both portable and does not depend on making fuel runs. At this time we will still need to supplement with fuel for charging but the goal is to use it less. With so much of our infrastructure dependent on technology, it is important that the technology we build consume less energy. We do not have enough energy to run the desktop off-grid for any long period of time. Water collection and storage continues to be a challenge.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Hardware Updates</title><link href="/2022/01/01/desktop-updates.html" rel="alternate" type="text/html" title="Hardware Updates" /><published>2022-01-01T01:00:00-05:00</published><updated>2022-01-01T01:00:00-05:00</updated><id>/2022/01/01/desktop-updates</id><content type="html" xml:base="/2022/01/01/desktop-updates.html">&lt;p&gt;&lt;img src=&quot;/assets/img/fotis-fotopoulos-unsplash.jpg&quot; alt=&quot;Hardware&quot; title=&quot;Hardware&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Built my own PC to replace my old laptop. Invested in a PC build designed to work off-grid in a small space, but also capable of doing the work I need done. Now I can test games, work and experiment with open-sourced A.I, &lt;em&gt;and&lt;/em&gt; can 3D Model in Blender using a better GPU than my old acer laptop. I still use my Laptop for writing and testing older games, but the bulk of my work is on my PC.&lt;/p&gt;
-
-&lt;p&gt;My current build:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;EVGA RTX 3060&lt;/li&gt;
-  &lt;li&gt;Asus Rog Strix B550-I&lt;/li&gt;
-  &lt;li&gt;Ryzen 7 5700G&lt;/li&gt;
-  &lt;li&gt;Corsair Vengeance RGB 32GB (2x16GB)&lt;/li&gt;
-  &lt;li&gt;Corsair iCue Sp120 RGM 120mm Fan, single pack&lt;/li&gt;
-  &lt;li&gt;Crucial P2 500GB NvMe PCie M.2 SSD - for “OS only”&lt;/li&gt;
-  &lt;li&gt;Samsung 980 1TB SSD&lt;/li&gt;
-  &lt;li&gt;Corsair SF Series, SF750, 750 Watts, 80+ Gold Certified&lt;/li&gt;
-  &lt;li&gt;Cooler Master NR200 - Mini-ITX case&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Monitor is old TCL - Roku TV&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other tools purchased for the projects: Soldering Station, 18TB Seagate, 14TB Seagate, 200w Renogy solar panels w/solar connectors and adapters, and garden seeds.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Becoming Unbanked</title><link href="/2021/01/20/becoming-unbanked.html" rel="alternate" type="text/html" title="Becoming Unbanked" /><published>2021-01-20T01:00:00-05:00</published><updated>2021-01-20T01:00:00-05:00</updated><id>/2021/01/20/becoming-unbanked</id><content type="html" xml:base="/2021/01/20/becoming-unbanked.html">&lt;p&gt;&lt;img src=&quot;/assets/img/carlos-muza-hpjSkU2UYSU-unsplash.jpg&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After taking steps to become a registered organization and to acquire a bank account, my bank account was closed involuntarily because of mistakes made when funding the account. I have sense learned that everything in our society is a game they force us to learn how to play with severe consequences when we don’t. Over the next few years, I will learn what my options are, diversifying the risk of relying solely on banks, and ultimately will work to transition away from our current financial system.&lt;/p&gt;
-
-&lt;p&gt;Cryptocurrency w/Stablecoins, Cash and CashApp (Prepaid Cards) are the two alternatives to traditional banking. I’m not fond of carrying cash. So, to some extent, the game will have to be played. To what extent remains to be unknown.&lt;/p&gt;
-
-&lt;h2 id=&quot;alternative-economy&quot;&gt;Alternative Economy&lt;/h2&gt;
-&lt;p&gt;I have always loved the concept of a pay-it-forward financial system, where the more kind deeds you do, the more your wealth grows, where anyone can be included. I had this concept of Guardian Points (GP) and Hero Points (HP). We would start with One Million Heroes Campaign, a fundraiser inspired by the one million ads. Participants would receive HP and the developers would receive GP as a measurement of the value they created (a bit like reward points, cash-back programs).&lt;/p&gt;
-
-&lt;h2 id=&quot;everyone-has-value&quot;&gt;Everyone has value&lt;/h2&gt;
-&lt;p&gt;In my system, value was not just created by those who contributed financially and were “able-bodied”. Stay-at-home parents and caregivers who cared for their loved ones could create value. Gardeners and backyard homesteaders who fed their family and shared the abundance with their neighbors could create value. People who take part in the community create value as their contribution. We could focus on our strengths and interests rather than focusing on how much money will this make us. To spend more time at home with our families, to see them grow.&lt;/p&gt;
-
-&lt;h2 id=&quot;inspirations&quot;&gt;Inspirations&lt;/h2&gt;
-&lt;p&gt;One system that has inspired me to how this could work has been decentralized blockchain technology (ledgers) - some of which work a lot, like stocks and dividends. The very act of participating in the community secures the network. Banks and even Churches do this too. They use your money to trade, and you get small amounts of interest. Crypto just ‘gives’ you more at the expense of volatility.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cardano (ADA) with its staking, you hold coins; they generate interest.&lt;/li&gt;
-  &lt;li&gt;Bitcoin (BTC) with its miners, where just by using your computer to mine you secure the network and create coins.&lt;/li&gt;
-  &lt;li&gt;IOTA’s DAG system and the way its transaction system worked, looks the most like my pay-it-forward system. Where in order to send a ‘transaction’ you must verify and validate two previous transactions.&lt;/li&gt;
-  &lt;li&gt;Then there is NEM (XEM) a coin with reputation based system.&lt;/li&gt;
-  &lt;li&gt;Brave (BAT) tokens allow you to generate coins by rewarding your attention - they pay you to view ads - ‘advertisements’ or ‘sponsors’ and then choosing who you would like to give those tokens to - yourself or someone you support. (this is not a new concept, but it doesn’t require you to give up your privacy)&lt;/li&gt;
-  &lt;li&gt;Monero (XMR) is privacy based, but also really complicated. Something simple like ADA that offers privacy for its users.&lt;/li&gt;
-  &lt;li&gt;Resource based economy and currencies based on a basket of commodities.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If I could merge these concepts together - I could in theory - create a blockchain token that incentivizes actions which uplift each other. What if for every real-world item we created for each other, we linked it to the value of our token? Tokens that could grant access to resources - we provide to others - who help us or others also part of our community. Tokens represent our shared creations, reputation, membership within the community and our responsibility to each other.&lt;/p&gt;
-
-&lt;h2 id=&quot;hp-vs-gp&quot;&gt;HP vs. GP&lt;/h2&gt;
-&lt;p&gt;It would be like a companies ‘reward points’ except the reward would be - at least for members - a measurement of their time and contribution within the community which enable us to build resources. Production would generate Guardian Points (GP). When given to laymen, they would become Hero Points (HP). HP could purchase any product provided by Guardians and I hoped that someday we could provide help with rent, food, and more.&lt;/p&gt;
-
-&lt;h2 id=&quot;ledger-systems&quot;&gt;Ledger Systems&lt;/h2&gt;
-&lt;p&gt;Initially, I thought the token-system &lt;em&gt;had&lt;/em&gt; to be blockchain based, but I didn’t know how to code or implement that. After going to the farmer’s market, I saw tokens could be wooden or plastic chips. The primary difference is one method is decentralization. Decentralized is better at being censorship resistant, but also could prevent abuses in leadership. Another benefit of blockchain is tokens can represent voting power and governance. This leads to a form of government I’ve been mulling over called Daocracy. But that’s another story altogether.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-resource-based-economy&quot;&gt;A Resource-Based Economy&lt;/h2&gt;
-&lt;p&gt;Daniel Suelo gave up money and lives his life by upcycling and bartering. Jacque Fresco envisioned a world without money - a resource-based economy - where &lt;em&gt;“all goods and services are available to all people without the need for money, credits, barter or any other means”&lt;/em&gt;. In his system, as I understand it, resources are abundant and managed in a decentralized way - perfect for blockchain technology. But how would they manage shortages? I imagine they would ration.&lt;/p&gt;
-
-&lt;p&gt;What was life like before money? What is life like for different social-based species who do not have money? Some species are brutal - but - some aren’t. How do the ones who are not brutal handle sharing and rationing resources? There are tribal communities that do not use money, and they share everything with each other. Is this a realistic option? Can they do it on a small-scale, can those small-scales use bridges to interact with other communities? What about property? Can there be a balance between community property vs. individual property? Co-op models seem to be an example of this balance. &lt;em&gt;“A cooperative is “an autonomous association of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a jointly owned and democratically-controlled enterprise” It’s owned and controlled by the people who use it, rather than stockholders.”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;designed-for-small-communities&quot;&gt;Designed for Small Communities&lt;/h2&gt;
-&lt;p&gt;Decentralized blockchain technologies don’t have to be launched to support the world. They can support small communities. Cross-community bridges (the same in concept as cross-chain bridges and side chains) could interchange assets to enable interaction with other communities and society as a whole. It would be open-source and perhaps other communities could be built on or with it. The system would be strictly designed for intentional communities and monasteries. And that’s only if it were to be adopted - and - only if we were on our own blockchain rather than using a pre-existing blockchain or Token. On a smaller-scale it would still work even if only we used it.&lt;/p&gt;
-
-&lt;h2 id=&quot;open-heart-designed&quot;&gt;Open Heart designed&lt;/h2&gt;
-&lt;p&gt;Although inspired by UBI, what I want to create is not the same. The problem I have with UBI is that it’s centralized and linked to a social credit score. The funds can be taken away or blacklisted. In my system, members would have many ways to contribute to society. If they choose not to do one thing, they have other ways to bring value. It is not my way or the highway, it’s all roads can lead to the same destination. Each member would fully own their points and can transfer them or keep them as they please. UBI is given without condition, but my system would have the condition that to receive them you must be a member and each member must be active participants in the network, contributing to the security and growth.&lt;/p&gt;
-
-&lt;p&gt;That could mean playing board games with each other, gardening or making jewelry and sharing that excess with others within the community. It could help take care of other members in the community. All these things are contributions whether it involves bringing food to the table. Here, every person has value just by doing their part to strengthen and uplift each other. Those physically disabled, who can’t walk, speak or write, still eat food and generate waste, and we can upcycle waste into fuel, contributing to our circular economy. They can encourage us to evolve and develop technologies that make life easier for each other, not harder, offering us problems to solve in compassionate ways. We can create a community where we add value to the lives of those who love us and incentivize healing and allowing our lives to be a byproduct of healing. Where no one person is expendable.&lt;/p&gt;
-
-&lt;h2 id=&quot;shelved-idea&quot;&gt;Shelved Idea&lt;/h2&gt;
-&lt;p&gt;My intentions are well-placed. But let’s face it… the logistics, mathematics and intelligence aren’t there yet. I will prototype this concept first with game mechanics among friends, and then we’ll explore its usage within the monastery. If it works, we’ll share it with others. And if it doesn’t, maybe somebody else will build it, or create something that makes our concept obsolete.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">New Plans</title><link href="/2020/02/23/new-plans.html" rel="alternate" type="text/html" title="New Plans" /><published>2020-02-23T01:00:00-05:00</published><updated>2020-02-23T01:00:00-05:00</updated><id>/2020/02/23/new-plans</id><content type="html" xml:base="/2020/02/23/new-plans.html">&lt;p&gt;&lt;img src=&quot;/assets/img/planning_trip-min-960x640.jpg&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;roadmap-redirects&quot;&gt;Roadmap Redirects&lt;/h3&gt;
-&lt;p&gt;Took down the old blog and old sites, which were more a ‘personal blog’ chronicling every little detail of the journey. Spent the past several years growing my skills, making mistakes and narrowing down my focus, expertise and niche.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;UPDATE (2022):&lt;/strong&gt; 2020 was a hard year for everyone. I left my Shaolin Kung Fu Family to focus on parkour and to build my monastery full-time. I had originally intended to expand my family and travel and boondock/ wild camp / WWOOF around the country with my Stout Bell Tent and Car, and given time horse and wagon. The starting country was Canada, the end goal was Mongolia. Not only did COVID shut downs end that plan, but I ended up becoming a co-caretaker for my aging parents and grandparents, while also being a homeschooling single parent by choice. Then World War III fell upon the world’s doorstep. Since then I have had to redefine the concept of ‘traveling’ monastery. I have spent 2020-2022 training in horseback riding and acrobatics within my local community. Acrobatics has been incredibly important for both my monastery and my medusa project, as I wanted to be a stunt worker and choregrapher using motion capture for my project, while also merging the spiritual aspects of integrating mind, body and spirit. As of 2022, I continue to train in the endeavor with the focus on achieving backflips.&lt;/p&gt;
-
-&lt;p&gt;Progress for backflips has been slowed due to focus on other elements of building the monastery and art. While I still train once a week, it should really be 2-3x/week. My focus is divided between developing other skill sets, which have made me “a jack of all trades, master of none”.&lt;/p&gt;
-
-&lt;p&gt;As of this moment I do not have land or amazing martial skills to demonstrate. Pema Chodron once said, you have to “Start Where You Are”. I realized we could still be a monastery even if we did not have land or all the other things I felt we needed to succeed. We could live and practice in the woods, backyards, or a mountain top, so long as we practice. Even if our numbers fell or didn’t grow: The Monastery could live and die with one monk, the last guardian, and still be a monastery, so long as we practiced.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">New Beginnings</title><link href="/2018/01/01/start-here.html" rel="alternate" type="text/html" title="New Beginnings" /><published>2018-01-01T01:00:00-05:00</published><updated>2018-01-01T01:00:00-05:00</updated><id>/2018/01/01/start-here</id><content type="html" xml:base="/2018/01/01/start-here.html">&lt;p&gt;&lt;img src=&quot;/assets/img/n-map-unsplash-1024x683.jpg&quot; alt=&quot;Trip&quot; title=&quot;Trip&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hi there, Welcome to the Guardian &amp;amp; Hero Nation blog! You may call me &lt;b&gt;The Nameless One&lt;/b&gt;, for I have many names and haven't settled on just one. I am the resident monk and weaver of this site: worldbuilder, artist, writer, all labels to describe me. Here updates about the Medusa project a.k.a. Guardian projects will be posted whenever I can find the time. Guardian projects are a series of interconnected projects created by...well...Guardians. What Guardians are, isn't as important as what we &lt;b&gt;create&lt;/b&gt;, and that's what I would like to share through this blog. From time to time I might sprinkle a little insight into the Guardian philosophies, but only where it makes sense to.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+<h3 id="roadmap-redirects">Roadmap Redirects</h3>
+<p>Took down the old blog and old sites, which were more a ‘personal blog’ chronicling every little detail of the journey. Continued work on self-development and skill gorowth. Made a few mistakes and narrowed down focus, expertise and niche. Will continue to narrow down the best way to grow from level zero to one hundred.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Redirections and new plans for the site]]></summary></entry></feed>
